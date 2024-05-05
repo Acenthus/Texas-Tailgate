@@ -1,8 +1,3 @@
-# Restaurant Landing Page
+# Texas Tailgate website demo
 
-- Used bootstrap tools & own styles.
-- Implemented responsive template.
-
-👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
-
-![Demo](img/demo.gif)
+- A WIP interactive website for the fictional foodtruck "Texas Tailgate"
