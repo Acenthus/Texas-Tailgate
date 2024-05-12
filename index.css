@@ -175,6 +175,11 @@ a.link-to-book:hover {
         height: auto;
     }
 
+    .logo {
+        height: auto;
+        width: 100%;
+    }
+    
     .row-flex {
         display: flex;
         flex-direction: column;
